@@ -43,6 +43,9 @@
 
 **Steps to run:**
 1. Clone or download the project.
+```bash
+   git clone https://github.com/JanudiAdhikari/IT3003-Simple-Notepad-Mini-Project.git
+```
 2. Open the project in your IDE.
 3. Run the `Notepad.java` file:
 
